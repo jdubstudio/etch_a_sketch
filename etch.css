@@ -1,0 +1,13 @@
+.container {
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+}
+
+.container div {
+    vertical-align: top;
+}
+
+h2 {
+text-align: center;
+}
